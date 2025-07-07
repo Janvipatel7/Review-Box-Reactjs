@@ -1,5 +1,4 @@
 import React, { useRef, useState } from 'react';
-
 const Review = () => {
     const [input, setInput] = useState({
         name: '', message: '', date: '', rate: ''

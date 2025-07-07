@@ -1,10 +1,8 @@
-import Review from "./Components/Review"
-
-
+import Review from "./allComponents/Review"
 const App = () => {
   return (
     <div>
-       <Review />
+      <Review />
     </div>
   )
 }
