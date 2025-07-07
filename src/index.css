@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    outline: none;
+}
+
+body{
+    /* background-image: url(../public/image/R2.jpg); */
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.scrollbar-width{
+    scrollbar-width: none;
+}
+
+/* .box-shadow{
+    /* box-shadow: #b4857d;
+} */    
